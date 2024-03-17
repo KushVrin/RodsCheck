@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiUrl: 'http://35.81.199.39:5000'\n};","map":null,"metadata":{},"sourceType":"module"}
