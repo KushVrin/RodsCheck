@@ -1,4 +1,4 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/environment.prod.ts
+rodins-ui/src/environments/environment.prod.ts
