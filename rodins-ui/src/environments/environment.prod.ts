@@ -5,5 +5,5 @@ export const environment = {
   // apiUrl: 'http://13.114.94.62:5000/api',
   // apiUrl: 'http://100.20.64.155:30000/api'
   // apiUrl: 'http://test.learndevopswithme.xyz/api'
-  apiUrl: 'http://10.1.165.7/api',
+  apiUrl: 'http://10.1.167.7/api',
 };
